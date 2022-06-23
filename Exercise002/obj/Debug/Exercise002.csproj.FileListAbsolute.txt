@@ -1,0 +1,8 @@
+C:\temp\ws-vs2022\Exercise002\Exercise002\bin\Debug\Exercise002.exe.config
+C:\temp\ws-vs2022\Exercise002\Exercise002\bin\Debug\Exercise002.exe
+C:\temp\ws-vs2022\Exercise002\Exercise002\bin\Debug\Exercise002.pdb
+C:\temp\ws-vs2022\Exercise002\Exercise002\obj\Debug\Exercise002.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\Exercise002\Exercise002\obj\Debug\Exercise002.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2022\Exercise002\Exercise002\obj\Debug\Exercise002.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Exercise002\Exercise002\obj\Debug\Exercise002.exe
+C:\temp\ws-vs2022\Exercise002\Exercise002\obj\Debug\Exercise002.pdb
